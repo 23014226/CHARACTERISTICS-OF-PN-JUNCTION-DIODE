@@ -1,6 +1,6 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
-### Name:Ahamed Naeem M
-### Reg no: 212223210002
+### Name:Ganesan M
+### Reg no: 212223080013
 ## AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
